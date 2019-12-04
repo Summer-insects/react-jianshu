@@ -1,0 +1,7 @@
+export const changeOver='home/changeOver'
+export const changeLeave='home/changeLeave'
+export const leftAnimate='home/leftAnimate'
+export const rightAnimate='home/rightAnimate' 
+export const timeOut='home/timeOut' 
+export const l1Left='home/l1Left' 
+export const l2Left='home/l2Left' 
